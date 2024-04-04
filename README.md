@@ -1,4 +1,4 @@
-# CodeAlpha_web_internship_project
+# Code Alpha Wev Developement Internship
 ![image](https://github.com/ironmercdanish/CODE_ALPHA_WEBDEVELOPEMENT_TASK/blob/main/302044194-ec7429e5-59f5-4743-b755-61d83b927901.png)
 
 
@@ -8,3 +8,4 @@ Join our dynamic team at CodeAlpha as a Web Intern and dive into the exciting wo
 
 
 ![image](https://github.com/ironmercdanish/CODE_ALPHA_WEBDEVELOPEMENT_TASK/blob/main/302044496-f9e421d5-b11b-4958-9c8f-23eb82e528cd.png)
+
